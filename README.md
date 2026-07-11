@@ -1,9 +1,9 @@
 ```text
-                                                                             . pasan@seerservices.lk
+                                                                             . pasan.anushanga06@gmail.com
                                                                              . ---------------------
                              ...::. .....:                                   . OS: ............................. Windows 11, Linux, Android 14
-                                    ..:    :                                 . Uptime: ......................... 19 years, 5 months
-                                        . ..:                                . Host: ........................... seerservices.lk
+                                    ..:    :                                 . Uptime: ......................... 19 years,
+                                        . ..:                                . Host: ........................... meme.lk
                                  :;;+++:+;  .                                . Kernel: ......................... Custom (Curiosity v1.0)
                                .;;++xXXXXXX;:                                . IDE: ............................ VS Code, Cursor
                               ;;;:..:;+xX$X+:                                .
@@ -17,7 +17,7 @@
                         X.;:.         .:         ::::;;::+Xx                 . Motto: .......................... "Dreams of Freedom"
                        XX+.::.                      :::;;;xXx                .
           $$$$$$$$$$$XXXXX+....:..:;;+               :::;;+xx                - Contact -------------------------------------------------------------
-      X$$$$$$$$$$$$$X$XXXXX+::.::::;::X               :::;+xXX+              . Email: .......................... pasan@seerservices.lk
+      X$$$$$$$$$$$$$X$XXXXX+::.::::;::X               :::;+xXX+              . Email: .......................... pasan.anushanga06@gmail.com
     $$XX$$$$$$$$$$$$$Xx$$x;xX;:::::: ;X$$              +++;:+xX              . GitHub: ......................... github.com/PasanAnushanga
     x$$$X+$$$$$$$$$$$$X+;+++XXX;:::..+X$X$$$$$$X       :;::;++xx             .
    $$X$$$$;X$$$$$$$$X$$$$$XXXXX$X+;+$x;;XX$$$$X$$$      ;;::;++XX            - Projects ------------------------------------------------------------
